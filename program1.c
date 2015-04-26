@@ -7,9 +7,9 @@ int main()
    printf("Enter two numbers to add\n");
    scanf("%d%d",&a,&b);
 
-   c = a + b;
+   c = a - b;
 
-   printf("Sum of entered numbers = %d\n",c);
+   printf("Sub of entered numbers = %d\n",c);
 
    return 0;
 }
