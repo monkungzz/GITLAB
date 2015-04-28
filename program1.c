@@ -2,7 +2,7 @@
 
 int main()
 {
-   int a, b, c;
+   int a, f, e;
 
    printf("Enter 2 numbers to minus\n");
    scanf("%d%d",&a,&b);
